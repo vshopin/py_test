@@ -9,4 +9,4 @@ def clean_text_file():
     with open('tests/testfile.txt', 'w'):
         pass
     print(cnt)
-    cnt += 1
+    # cnt += 1
