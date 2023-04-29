@@ -8,7 +8,10 @@ def get_number():
 
 
 def _calculate(a, b):
-    return a + b
+    try:
+        return a + b
+    except TypeError:
+        pass
 
 
 @pytest.fixture
