@@ -3,7 +3,7 @@ player = {
     "balance": 10,
     "localize": [
         {
-            "en": {"nickname": "SolweMe"},
+            "en": {"nickname": "SolweMe", "countries": {"UA": 3}, {"ennnnn": {"ab": {}}}},
             "ru": {"nickname": "СолвеМи"}
         }
     ],
